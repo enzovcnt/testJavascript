@@ -1,1 +1,3 @@
-alert('dzdz');
+const troi
+
+trois.moveTo(one)
